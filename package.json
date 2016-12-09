@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap-flat-design-theme",
+  "version": "1.0.0",
+  "description": "Custom flat design bootstrap theme",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "node-sass src/stylesheets/bootstrap-flat.scss --watch --output dist/css --source-map true --source-map-contents sass",
+    "start": "npm run build-css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "bootstrap-flat-design-theme"
+  },
+  "author": "Filip Molcik",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^3.13.0"
+  }
+}
