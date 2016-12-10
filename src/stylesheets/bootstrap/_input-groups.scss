@@ -82,7 +82,7 @@
   color: $input-color;
   text-align: center;
   background-color: $input-group-addon-bg;
-  border: 1px solid $input-group-addon-border-color;
+  border: 0px solid $input-group-addon-border-color;
   border-radius: $input-border-radius;
 
   // Sizing
@@ -154,18 +154,18 @@
     }
   }
 
-  // Negative margin to only have a 1px border between the two
+  // Negative margin to only have a 0px border between the two
   &:first-child {
     > .btn,
     > .btn-group {
-      margin-right: -1px;
+      margin-right: -0px;
     }
   }
   &:last-child {
     > .btn,
     > .btn-group {
       z-index: 2;
-      margin-left: -1px;
+      margin-left: -0px;
     }
   }
 }

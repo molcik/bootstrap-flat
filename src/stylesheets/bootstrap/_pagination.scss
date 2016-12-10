@@ -18,7 +18,7 @@
       text-decoration: none;
       color: $pagination-color;
       background-color: $pagination-bg;
-      border: 1px solid $pagination-border;
+      border: 1px solid $body-bg;
       margin-left: -1px;
     }
     &:first-child {
@@ -69,7 +69,7 @@
     > a:focus {
       color: $pagination-disabled-color;
       background-color: $pagination-disabled-bg;
-      border-color: $pagination-disabled-border;
+      border-color: $body-bg;
       cursor: $cursor-disabled;
     }
   }
