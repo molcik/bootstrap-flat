@@ -18,7 +18,7 @@ For adjusting your theme or easy inclusion in Rails, Compass, or Sass-only proje
 ```javascript
 npm instal
 ```
-then 
+and
 ```javascript
 npm start
 ```
