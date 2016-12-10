@@ -4,7 +4,7 @@ Custom flat design bootstrap theme, inspired by [Scott Dorman Bootstrap Flat](ht
 ## Getting started
 
 ###Example 
-You can navigate to [https://molcik.github.io/bootstrap-flat/](https://molcik.github.io/bootstrap-flat/) where are shown all components on one page.
+You can navigate to [EXAMPLE page](https://molcik.github.io/bootstrap-flat/) where are shown all components on one page.
 
 ###Precompiled Boostrap
 Here is precompiled bootstrap-flat for out off the box usage:
