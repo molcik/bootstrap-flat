@@ -4,8 +4,9 @@
   "description": "Custom flat design bootstrap theme",
   "main": "index.js",
   "scripts": {
-    "build-css": "node-sass src/stylesheets/bootstrap-flat.scss --watch --output dist/css --source-map true --source-map-contents sass",
-    "start": "npm run build-css"
+    "build-css": "node-sass --watch src/stylesheets/bootstrap-flat.scss dist/css/bootstrap-flat.css --source-map true --source-map-contents sass",
+    "build-min-css": "node-sass --output-style compressed --watch src/stylesheets/bootstrap-flat.scss dist/css/bootstrap-flat.min.css",
+    "start": "npm run build-min-css | npm run build-css"
   },
   "repository": {
     "type": "git",
