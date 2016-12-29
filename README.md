@@ -9,9 +9,8 @@ You can navigate to [EXAMPLE page](https://molcik.github.io/bootstrap-flat/) whe
 ###Precompiled Boostrap
 Here is precompiled bootstrap-flat for out off the box usage:
 
-Download: [bootstrap-flat.css](dist/css/bootstrap-flat.css)
+Download: [bootstrap-flat.css](https://github.com/molcik/bootstrap-flat/releases/tag/1.0)
 
-Download: [bootstrap-flat.min.css](dist/css/bootstrap-flat.min.css)
 
 ### Sass
 For adjusting your theme or easy inclusion in Rails, Compass, or Sass-only projects, download or fork this project. Source files are located ```/src``` folder. For auto compiling your changes in source files run:
