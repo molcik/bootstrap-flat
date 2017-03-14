@@ -1,12 +1,13 @@
 # Bootstrap Flat
+![Screenshot](https://filipmolcik.com/wp-content/uploads/2016/12/Screen-Shot-2016-12-10-at-13.12.10-e1481372266154.png)
 Custom flat design bootstrap theme, inspired by [Scott Dorman Bootstrap Flat](https://scottdorman.github.io/bootstrap-flat/). For example page is used edited [Bootstrap TLDR](https://github.com/anvoz/bootstrap-tldr).
 
 ## Getting started
 
-###Example 
+### Example 
 You can navigate to [EXAMPLE page](https://molcik.github.io/bootstrap-flat/) where are shown all components on one page.
 
-###Precompiled Boostrap
+### Precompiled Boostrap
 Here is precompiled bootstrap-flat for out off the box usage:
 
 Download: [bootstrap-flat.css](https://github.com/molcik/bootstrap-flat/releases/tag/1.0)
